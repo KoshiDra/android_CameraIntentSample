@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">CametaIntantSample</string>
+    <string name="app_name">カメラ連携サンプル</string>
+    <integer name="camera">200</integer>
 </resources>
